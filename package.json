@@ -10,10 +10,6 @@
     "node": "6.9.2",
     "npm": "3.10.10"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/danliris/dl-auth-webapi.git"
-  },
   "author": "Moonlay Tech",
   "license": "ISC",
   "bugs": {
