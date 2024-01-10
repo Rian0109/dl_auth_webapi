@@ -12,9 +12,6 @@
   },
   "author": "Moonlay Tech",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/danliris/dl-auth-webapi/issues"
-  },
   "homepage": "https://github.com/danliris/dl-auth-webapi#readme",
   "dependencies": {
     "dl-models": "git+https://github.com/danliris/dl-models.git",
